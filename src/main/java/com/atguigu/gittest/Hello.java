@@ -11,6 +11,8 @@ public class Hello {
         System.out.println("world");
         System.out.println("cyl-d master");
         System.out.println("cyl-d master 改了");
+        System.out.println("cyl-d改了");
+        System.out.println("cyl-d test");
     }
 
 }
