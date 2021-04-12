@@ -9,6 +9,10 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("world");
+        System.out.println("cyl-d master");
+        System.out.println("cyl-d master 改了");
+        System.out.println("cyl-d改了");
+        System.out.println("cyl-d test");
         System.out.println("cyl-c 改了");
     }
 
